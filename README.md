@@ -1,3 +1,5 @@
+![Copy of README Github](https://github.com/lolaaguero/lolaaguero/assets/134756282/42069a54-a326-445e-94b4-3df004fb9aba)
+
 ### Hi there 👋
 
 <!--
