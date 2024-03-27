@@ -1,4 +1,4 @@
-![Copy of README Github](https://github.com/lolaaguero/lolaaguero/assets/134756282/42069a54-a326-445e-94b4-3df004fb9aba)
+![Copy of README Github (1)](https://github.com/lolaaguero/lolaaguero/assets/134756282/695c2d99-04d0-4f5b-a9dd-c43a39f375c9)
 
 ### Hi there 👋
 
