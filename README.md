@@ -1,4 +1,4 @@
-# Hi there, I’m Lola 🌸
+# Hi there, I’m Lola 🌼
 
 💻 **QA Analyst | Future Test Automation Engineer**
 
