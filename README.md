@@ -1,5 +1,3 @@
-![Hi! I'm Lola](https://github.com/lolaaguero/lolaaguero/assets/134756282/0dd9619d-3e92-458a-b618-6a2bc35b231c)
-
 # Hi there, I’m Lola 🌸
 
 💻 **QA Analyst | Future Test Automation Engineer**
@@ -26,7 +24,7 @@ Now, I’m on an exciting journey into **test automation** with **Java + Seleniu
 ---
 
 ### 🌍 Let’s Connect
-📫 [LinkedIn](https://www.linkedin.com)  
+📫 [LinkedIn](https://www.linkedin.com/in/lolaaguero/)  
 
 ---
 
